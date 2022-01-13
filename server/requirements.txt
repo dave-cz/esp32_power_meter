@@ -1,0 +1,7 @@
+numpy
+pandas
+requests
+influxdb
+flask
+gevent
+pytz
