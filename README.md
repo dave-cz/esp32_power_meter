@@ -4,5 +4,4 @@ Inspiration: https://how2electronics.com/iot-based-electricity-energy-meter-usin
 
 # Measurement example - refrigerator
 
-
-![meas_r](https://user-images.githubusercontent.com/4918852/149370239-1715769b-5f3f-4965-b143-669749240dba.png)
+![image](https://user-images.githubusercontent.com/4918852/149467035-406d3a9f-2e97-47cc-b40e-6222550a0dd6.png)
