@@ -1,0 +1,11 @@
+{
+  "pin": 35,
+  "url": "http://192.168.0.123:3033/save",
+  "data_len": 1000,
+  "headers": {
+    "Content-Type": "application/json",
+    "X-API-KEY": "abcd123"
+  },
+  "ssid": "my_wifi",
+  "password": "password"
+}

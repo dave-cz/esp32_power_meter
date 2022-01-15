@@ -1,0 +1,21 @@
+{
+  "log_name": "esp32_server",
+  "url": "0.0.0.0",
+  "port": 3033,
+  "api_key": "abcd123",
+  "meas_to_rms_coeff": 0.0343,
+  "voltage": 238,
+  "influxdb": {
+    "client": {
+      "host": "localhost",
+      "port": 8086,
+      "username": "user",
+      "password": "password",
+      "database": "db_01",
+      "ssl": true,
+      "timeout": 15
+    },
+    "measurement_rms": "rms_01",
+    "measurement_data": "meas_01"
+  }
+}
